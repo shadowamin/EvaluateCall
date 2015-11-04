@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <color name="bg_home_color">#f5f5f5</color>
+    <color name="abs_custom_color">#2196f3</color>
+    <color name="bg_list_header">#e3f2fd</color>
+    <color name="bg_sub_header">#e0e0e0</color>
+    <color name="spinner_divider">#e1e1e1</color>
+    <color name="orange">#ee850c </color>
+	<color name="gray">#979696 </color>
+    <color name="blue"> #2f93cc </color>
+     <color name="black"> #000 </color>
+    <color name="gray_dark">#757575</color>
+    <color name="gray_call">#fafafa</color>
+     <color name="blue_numcall">#39a2f7</color>
+    <color name="white">#ffffff</color>
+    <color name="trans_white">#50ffffff</color>
+    <color name="trans_gray">#50979696</color>
+    <color name="blue_header">#1194f6</color>
+    <color name="yellow_dark">#FF9900</color>
+    <color name="frags_back">#E0E0E0</color>
+    <color name="gray_clear">#BABABA</color>
+    
+    
+</resources>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+     xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_home_color" >
+
+    
+      <LinearLayout
+        android:id="@+id/satetLayout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="16dp"
+        android:layout_toLeftOf="@+id/rightArrow"
+        android:layout_toRightOf="@+id/leftArrow"
+        android:gravity="center"
+        android:orientation="vertical" >
+ <com.mixxitevaluatecall.TitelsSeekBar
+                android:id="@+id/seekbarTitels"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="16dp"
+                app:itemsArrayId="@array/seek_bar_titles" >
+
+ </com.mixxitevaluatecall.TitelsSeekBar>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/ArrowsLayout"
+        android:layout_below="@+id/satetLayout"
+        android:layout_margin="16dp"
+        android:paddingBottom="2dp"
+        android:background="@drawable/frags_background"
+        android:orientation="vertical"
+        >
+
+        <android.support.v4.view.ViewPager
+            android:id="@+id/viewpager"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/ArrowsLayout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="24dp"
+        android:orientation="horizontal" >
+
+        <LinearLayout
+            android:id="@+id/retourBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="16dp"
+            android:gravity="center" >
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/wizard_arrow_left" />
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="16dp"
+                android:text="@string/btn_retour"
+                android:textColor="@color/yellow_dark"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/suivantBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginRight="16dp"
+            android:gravity="center" >
+
+            <TextView
+                android:id="@+id/textSuivant"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="16dp"
+                android:text="@string/btn_suivant"
+                android:textColor="@color/yellow_dark"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/imageView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/wizard_arrow_right" />
+        </LinearLayout>
+    </RelativeLayout>
+
+  
+
+</RelativeLayout><!-- From: file:/home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/EvaluateCall/src/main/res/layout/activity_pre_config.xml -->

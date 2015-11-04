@@ -1,0 +1,147 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/EvaluateCall/src/main/AndroidManifest.xml:2:1-67:12
+	xmlns:android
+		ADDED from /home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/EvaluateCall/src/main/AndroidManifest.xml:2:11-69
+	package
+		ADDED from /home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/EvaluateCall/src/main/AndroidManifest.xml:3:5-37
+		INJECTED from /home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/EvaluateCall/src/main/AndroidManifest.xml
+		INJECTED from /home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/EvaluateCall/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/EvaluateCall/src/main/AndroidManifest.xml:5:5-30
+	android:versionCode
+		ADDED from /home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/EvaluateCall/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/EvaluateCall/src/main/AndroidManifest.xml
+		INJECTED from /home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/EvaluateCall/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/EvaluateCall/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [EvaluateCall:CircularImageView:unspecified] /home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/EvaluateCall/build/intermediates/exploded-aar/EvaluateCall/CircularImageView/unspecified/AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from /home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/EvaluateCall/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/EvaluateCall/src/main/AndroidManifest.xml
+		INJECTED from /home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/EvaluateCall/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/EvaluateCall/src/main/AndroidManifest.xml:8:9-35
+		INJECTED from /home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/EvaluateCall/src/main/AndroidManifest.xml
+		INJECTED from /home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/EvaluateCall/src/main/AndroidManifest.xml
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/EvaluateCall/src/main/AndroidManifest.xml:11:5-75
+	android:name
+		ADDED from /home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/EvaluateCall/src/main/AndroidManifest.xml:11:22-72
+uses-permission#android.permission.READ_CALL_LOG
+ADDED from /home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/EvaluateCall/src/main/AndroidManifest.xml:12:5-72
+	android:name
+		ADDED from /home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/EvaluateCall/src/main/AndroidManifest.xml:12:22-69
+uses-permission#android.permission.VIBRATE
+ADDED from /home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/EvaluateCall/src/main/AndroidManifest.xml:13:5-66
+	android:name
+		ADDED from /home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/EvaluateCall/src/main/AndroidManifest.xml:13:22-63
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/EvaluateCall/src/main/AndroidManifest.xml:14:5-71
+	android:name
+		ADDED from /home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/EvaluateCall/src/main/AndroidManifest.xml:14:22-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/EvaluateCall/src/main/AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from /home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/EvaluateCall/src/main/AndroidManifest.xml:15:22-78
+uses-permission#android.permission.WRITE_CONTACTS
+ADDED from /home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/EvaluateCall/src/main/AndroidManifest.xml:16:5-73
+	android:name
+		ADDED from /home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/EvaluateCall/src/main/AndroidManifest.xml:16:22-70
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/EvaluateCall/src/main/AndroidManifest.xml:17:5-72
+	android:name
+		ADDED from /home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/EvaluateCall/src/main/AndroidManifest.xml:17:22-69
+uses-permission#android.permission.READ_PROFILE
+ADDED from /home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/EvaluateCall/src/main/AndroidManifest.xml:18:5-71
+	android:name
+		ADDED from /home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/EvaluateCall/src/main/AndroidManifest.xml:18:22-68
+uses-permission#android.permission.WRITE_CALL_LOG
+ADDED from /home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/EvaluateCall/src/main/AndroidManifest.xml:19:5-73
+	android:name
+		ADDED from /home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/EvaluateCall/src/main/AndroidManifest.xml:19:22-70
+uses-permission#android.permission.SEND_SMS
+ADDED from /home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/EvaluateCall/src/main/AndroidManifest.xml:20:9-71
+	android:name
+		ADDED from /home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/EvaluateCall/src/main/AndroidManifest.xml:20:26-68
+application
+ADDED from /home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/EvaluateCall/src/main/AndroidManifest.xml:22:5-65:19
+MERGED from [EvaluateCall:SnippingBarLibrary:unspecified] /home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/EvaluateCall/build/intermediates/exploded-aar/EvaluateCall/SnippingBarLibrary/unspecified/AndroidManifest.xml:5:5-13:19
+	android:label
+		ADDED from /home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/EvaluateCall/src/main/AndroidManifest.xml:25:9-41
+	android:allowBackup
+		ADDED from /home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/EvaluateCall/src/main/AndroidManifest.xml:23:9-35
+	android:icon
+		ADDED from /home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/EvaluateCall/src/main/AndroidManifest.xml:24:9-45
+	android:theme
+		ADDED from /home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/EvaluateCall/src/main/AndroidManifest.xml:26:10-41
+activity#com.mixxitevaluatecall.callreception.MainActivity
+ADDED from /home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/EvaluateCall/src/main/AndroidManifest.xml:28:9-34:20
+	android:screenOrientation
+		ADDED from /home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/EvaluateCall/src/main/AndroidManifest.xml:32:13-49
+	android:label
+		ADDED from /home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/EvaluateCall/src/main/AndroidManifest.xml:30:13-45
+	android:configChanges
+		ADDED from /home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/EvaluateCall/src/main/AndroidManifest.xml:31:14-75
+	android:name
+		ADDED from /home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/EvaluateCall/src/main/AndroidManifest.xml:29:13-55
+activity#com.mixxitevaluatecall.callreception.EvaluateActivity
+ADDED from /home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/EvaluateCall/src/main/AndroidManifest.xml:35:9-41:20
+	android:screenOrientation
+		ADDED from /home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/EvaluateCall/src/main/AndroidManifest.xml:39:13-49
+	android:label
+		ADDED from /home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/EvaluateCall/src/main/AndroidManifest.xml:37:13-45
+	android:configChanges
+		ADDED from /home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/EvaluateCall/src/main/AndroidManifest.xml:38:14-75
+	android:name
+		ADDED from /home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/EvaluateCall/src/main/AndroidManifest.xml:36:13-59
+receiver#com.mixxitevaluatecall.callreception.EndCallReceiver
+ADDED from /home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/EvaluateCall/src/main/AndroidManifest.xml:43:9-47:20
+	android:name
+		ADDED from /home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/EvaluateCall/src/main/AndroidManifest.xml:43:19-64
+intent-filter#android.intent.action.PHONE_STATE
+ADDED from /home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/EvaluateCall/src/main/AndroidManifest.xml:44:13-46:29
+action#android.intent.action.PHONE_STATE
+ADDED from /home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/EvaluateCall/src/main/AndroidManifest.xml:45:17-76
+	android:name
+		ADDED from /home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/EvaluateCall/src/main/AndroidManifest.xml:45:25-73
+receiver#com.mixxitevaluatecall.Alarms.DispoAlarmReceiver
+ADDED from /home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/EvaluateCall/src/main/AndroidManifest.xml:48:9-72
+	android:name
+		ADDED from /home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/EvaluateCall/src/main/AndroidManifest.xml:48:19-60
+activity#com.mixxitevaluatecall.preconfig.PreConfigActivity
+ADDED from /home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/EvaluateCall/src/main/AndroidManifest.xml:49:9-60:20
+	android:screenOrientation
+		ADDED from /home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/EvaluateCall/src/main/AndroidManifest.xml:54:13-49
+	android:label
+		ADDED from /home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/EvaluateCall/src/main/AndroidManifest.xml:51:13-45
+	android:configChanges
+		ADDED from /home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/EvaluateCall/src/main/AndroidManifest.xml:53:14-75
+	android:theme
+		ADDED from /home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/EvaluateCall/src/main/AndroidManifest.xml:52:12-43
+	android:name
+		ADDED from /home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/EvaluateCall/src/main/AndroidManifest.xml:50:13-78
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/EvaluateCall/src/main/AndroidManifest.xml:55:17-59:29
+action#android.intent.action.MAIN
+ADDED from /home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/EvaluateCall/src/main/AndroidManifest.xml:56:17-69
+	android:name
+		ADDED from /home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/EvaluateCall/src/main/AndroidManifest.xml:56:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/EvaluateCall/src/main/AndroidManifest.xml:58:17-77
+	android:name
+		ADDED from /home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/EvaluateCall/src/main/AndroidManifest.xml:58:27-74
+activity#com.mixxitevaluatecall.preconfig.DialogueHoraire
+ADDED from /home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/EvaluateCall/src/main/AndroidManifest.xml:61:10-64:20
+	android:theme
+		ADDED from /home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/EvaluateCall/src/main/AndroidManifest.xml:63:13-67
+	android:name
+		ADDED from /home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/EvaluateCall/src/main/AndroidManifest.xml:62:13-76
+activity#com.tobishiba.snappingseekbar.MainActivity
+ADDED from [EvaluateCall:SnippingBarLibrary:unspecified] /home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/EvaluateCall/build/intermediates/exploded-aar/EvaluateCall/SnippingBarLibrary/unspecified/AndroidManifest.xml:9:9-12:20
+	android:label
+		ADDED from [EvaluateCall:SnippingBarLibrary:unspecified] /home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/EvaluateCall/build/intermediates/exploded-aar/EvaluateCall/SnippingBarLibrary/unspecified/AndroidManifest.xml:11:13-45
+	android:name
+		ADDED from [EvaluateCall:SnippingBarLibrary:unspecified] /home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/EvaluateCall/build/intermediates/exploded-aar/EvaluateCall/SnippingBarLibrary/unspecified/AndroidManifest.xml:10:13-70
+android:uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/EvaluateCall/src/main/AndroidManifest.xml:2:1-67:12 reason: com.tobishiba.snappingseekbar requested WRITE_EXTERNAL_STORAGE

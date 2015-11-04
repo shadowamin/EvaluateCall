@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CircularImageView/CircularImageView.iml" filepath="$PROJECT_DIR$/CircularImageView/CircularImageView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EvaluateCall.iml" filepath="$PROJECT_DIR$/EvaluateCall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EvaluateCall/EvaluateCall-EvaluateCall.iml" filepath="$PROJECT_DIR$/EvaluateCall/EvaluateCall-EvaluateCall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SnippingBarLibrary/SnippingBarLibrary.iml" filepath="$PROJECT_DIR$/SnippingBarLibrary/SnippingBarLibrary.iml" />
+    </modules>
+  </component>
+</project>

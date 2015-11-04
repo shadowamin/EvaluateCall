@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:textStyle="bold"
+        android:text="Horaires matin" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center" >
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="bottom"
+            android:text="de" />
+
+        <TextView
+            android:id="@+id/startTimeMorning"
+            android:layout_height="wrap_content"
+             android:layout_width="wrap_content"
+             android:textStyle="bold"
+            android:textColor="@color/blue_header"
+            android:layout_marginLeft="4dp"
+            android:layout_marginRight="4dp"
+            android:text="" />
+     <TextView
+            android:id="@+id/textView3"
+            android:layout_width="wrap_content"
+             android:layout_height="match_parent"
+            android:gravity="bottom"
+            android:text="à" />
+
+        <TextView
+            android:id="@+id/endTimeMorning"
+            android:layout_height="wrap_content"
+             android:layout_width="wrap_content"
+             android:textStyle="bold"
+            android:textColor="@color/blue_header"
+             android:layout_marginLeft="4dp"
+            android:layout_marginRight="4dp"/>
+
+
+    </LinearLayout>
+       <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+             android:layout_margin="16dp"
+             android:textStyle="bold"
+        android:text="Horaire apres midi" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+                    android:layout_marginBottom="16dp" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="bottom"
+            android:text="de " />
+
+        <TextView
+            android:id="@+id/startTimeAfternoon"
+            android:layout_height="wrap_content"
+                 android:layout_width="wrap_content"
+             android:textStyle="bold"
+            android:inputType="time"
+            android:textColor="@color/blue_header"
+             android:layout_marginLeft="4dp"
+            android:layout_marginRight="4dp"/>
+
+     <TextView
+            android:layout_width="wrap_content"
+             android:layout_height="match_parent"
+            android:gravity="bottom"
+            android:text=" à " />
+
+        <TextView
+            android:id="@+id/endTimeAfternoon"
+            android:layout_height="wrap_content"
+             android:layout_width="wrap_content"
+             android:textStyle="bold"
+            android:textColor="@color/blue_header"
+             android:layout_marginLeft="4dp"
+            android:layout_marginRight="4dp" />
+
+
+    </LinearLayout>
+
+</LinearLayout>

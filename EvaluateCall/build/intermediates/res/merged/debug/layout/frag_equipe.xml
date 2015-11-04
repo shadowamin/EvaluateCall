@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+        <TextView
+            android:id="@+id/fragTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:layout_marginBottom="8dp"
+            android:textColor="@color/yellow_dark"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/descriptionFrag"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:textColor="@color/gray_dark" />
+    <ListView
+        android:id="@+id/ListEquipe"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:divider="@null"
+        android:layout_marginTop="16dp"
+        android:dividerHeight="0dp" >
+    </ListView>
+
+</LinearLayout><!-- From: file:/home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/EvaluateCall/src/main/res/layout/frag_equipe.xml -->

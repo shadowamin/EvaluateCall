@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EvaluateCall</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="message_after_call">No-Roaming est une jeune application et a besoin de vos retours pour s\'ameliorer.\nPouver vous repensdre a ces quelques questions?</string>
+    <string name="quality_title">Qualité de la communication :</string>
+    <string name="comments">Avez vous un autre retour ?</string>
+    <string name="btn_send">Envoyer votre retour</string>
+    <string name="title_evaluation">Suivi post appel</string>
+    <string name="cat_equipe">Mon équipe</string>
+    <string name="cat_supirior">Mon supérieur</string>
+    <string name="cat_assistant">Mon assistant(e)</string>
+    <string name="cat_msgv">Ma messagerie vocale</string>
+    <string name="contact_unkonown">Contact non connue</string>
+    <string name="contact_add">Ajouter au contacts !</string>
+    <string name="title_activity_pre_config">PreConfigActivity</string>
+
+    
+    <string name="preconfig_team_msg">Pour permettre à TalkCare de fonctionner de manière optimale, creez une equipe pour diriger des appels:</string>
+    <string name="preconfig_contacts_msg">Utiliser <b>vos adresses mail</b> pour avoir rapidement une premiere classification des contacts.Cochez ceux qui doivent etre prises en compte  et choisissez s\'il sont "pro" ou "perso"</string>
+    <string name="preconfig_eco_msg">Optimiser le <b>cout de vos appels</b> entrants pour chaque catégorie. Plus vous placez le curseur ver la droite, plus vous etes joigniable, mais plus le cout est eleve</string>
+    <string name="preconfig_time_msg">Gerer votre disponibililté en fonction de vos horaires de travail. Vous pouvez ajouter des exeptions et faire evoluer les horaires plus tard.</string>
+    <string name="preconfig_communicate_msg">Votre assistant TalkCare est maintenant configuré!Vous pouvez dès a présent l\'utiliser\n\nPour Commencer n\'hesitez pas à diffuser le numéro à vos contacts!Votre nouveau numéro est</string>
+    
+     <string name="preconfig_team_title">Etape 1/5: Creer mon equipe</string>
+    <string name="preconfig_contacts_title">Etape 2/5: Classer mes contacts</string>
+    <string name="preconfig_eco_title">Etape 3/5: Faire des économies</string>
+    <string name="preconfig_time_title">Etape 4/5: Fixer les horaires de travail</string>
+    <string name="preconfig_communicate_title">Etape 5/5: Communiquer mon numéro</string>
+    
+    
+        <string name="team">Equipe</string>
+    <string name="contacts">Contacts</string>
+    <string name="eco">Economie</string>
+    <string name="time">Horaire</string>
+    <string name="number">Numéro</string>
+    
+     <string-array name="days_titles">
+            <item name="monday">Lundi</item>
+    <item name="tuesday">Mardi</item>
+    <item name="wednesday">Mercredi</item>
+    <item name="thersday">Jeudi</item>
+    <item name="friday">Vendredi</item>
+    <item name="saturday">Samedi</item>
+    <item name="sanday">Dimanche</item>
+        
+    </string-array>
+    
+ 
+    
+    <string name="from">de</string>
+    <string name="to">à</string>
+    
+    <string name="add_exeption">Ajouter une exeption</string>
+    <string name="get_pro_calls">Recevoir mes appels pro en dehors des horaires de travail</string>
+    <string name="get_perso_calls">Recevoir mes appels perso durant les heures de travail</string>
+    
+    <string name="new_unique">Votre numéro unique est le %numero%</string>
+    <string name="add_to_carnet">Ajouter à mon carnet d\'adresses</string>
+    <string name="diffuser_text">Pour commencer, n\'hesitez pas à le diffuser à vos contacts !</string>
+    <string name="send_unic_mail">Envoyer par Mail</string>
+    <string name="send_sms">Envoyer par SMS</string>
+    
+    
+        <string name="btn_suivant">Suivant</string>
+          <string name="btn_finir">Finir</string>
+         <string name="btn_retour">Retour</string>
+         
+         
+          <string name="evaluate_title">Notez la qualité de cet appel.</string>
+           <string name="evaluate_good">exellents</string>
+            <string name="evaluate_bad">Trés mauvais</string>
+             <string name="evaluate_comment">Si vous avez d\'autres remarques notez les ici.</string>
+              <string name="evaluate_send">Envoyer</string>
+         
+         
+    
+    <string-array name="seek_bar_eco">
+        <item>SIP\nWifi</item>
+        <item>SIP\n3G Locale</item>
+        <item>GSM\nLocale</item>
+        <item>GSM\nDomestique</item>
+    </string-array>
+    
+      <string-array name="seek_bar_titles">
+          <item>Equipe</item>
+        <item>Contacts</item>
+        <item>Economie</item>
+        <item>Horaire</item>
+        <item>Numéro</item>
+        
+    </string-array>
+    
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+android:id/background"
+          android:drawable="@drawable/star_inselected" />
+    <item android:id="@+android:id/secondaryProgress"
+          android:drawable="@drawable/star_selected" />
+    <item android:id="@+android:id/progress"
+          android:drawable="@drawable/star_selected" />
+</layer-list><!-- From: file:/home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/EvaluateCall/src/main/res/drawable/ratingstars.xml -->

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval">
+
+    <solid
+        android:color="#FFFFFF"/>
+
+    <size
+        android:width="3dp"
+        android:height="3dp"/>
+</shape><!-- From: file:/home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/SnippingBarLibrary/src/main/res/drawable/circle_background.xml --><!-- From: file:/home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/EvaluateCall/build/intermediates/exploded-aar/EvaluateCall/SnippingBarLibrary/unspecified/res/drawable/circle_background.xml -->

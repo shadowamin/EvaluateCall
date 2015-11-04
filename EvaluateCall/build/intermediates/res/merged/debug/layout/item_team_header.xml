@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+     android:gravity="center_vertical" >
+
+    <ImageView
+        android:id="@+id/imageَAdd"
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:layout_marginLeft="24dp"
+        android:layout_marginRight="24dp"
+        android:src="@drawable/wizard_icon_plus" />
+
+ <TextView 
+        android:id="@+id/list_header_title"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+         android:gravity="center_vertical" 
+        android:textStyle="bold"
+        android:textColor="@color/gray_dark"
+        
+        />
+
+
+</LinearLayout><!-- From: file:/home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/EvaluateCall/src/main/res/layout/item_team_header.xml -->

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <selector xmlns:android="http://schemas.android.com/apk/res/android" >
+     <item android:drawable="@drawable/wizard_email_pro_on" android:state_checked="false"/>
+    <item android:drawable="@drawable/wizard_email_perso_on" android:state_checked="true"/>
+  
+</selector>
+
+
+<!-- From: file:/home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/EvaluateCall/src/main/res/drawable/contact_type_on.xml -->

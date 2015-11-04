@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/cat"
+    android:textColor="@color/white"
+    android:paddingLeft="16sp"
+    android:layout_width="fill_parent"
+    android:gravity="center_vertical"
+    android:background="@drawable/button_post_call"
+    android:layout_height="32dp"/>
+<!-- From: file:/home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/EvaluateCall/src/main/res/layout/item_cat.xml -->

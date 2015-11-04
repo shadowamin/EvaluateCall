@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/EvaluateCall/build/intermediates/exploded-aar/EvaluateCall/CircularImageView/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4151ae2169f760bc55a8e8b5d9c1284a605dafd8">
+        <dex dex="/home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/EvaluateCall/build/intermediates/pre-dexed/debug/classes-5414ada6c3971e4d55cda6670480b724cc45f4ce.jar" />
+    </item>
+    <item
+        jar="/home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/EvaluateCall/libs/android-support-v4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="efec67655f6db90757faa37201efcee2a9ec3507">
+        <dex dex="/home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/EvaluateCall/build/intermediates/pre-dexed/debug/android-support-v4-12a5fbeee6915576b55985bb469b60da9318d841.jar" />
+    </item>
+    <item
+        jar="/home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/EvaluateCall/build/intermediates/exploded-aar/EvaluateCall/SnippingBarLibrary/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="395cbe0fdcc170d2e6a0c82396f2552459de1264">
+        <dex dex="/home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/EvaluateCall/build/intermediates/pre-dexed/debug/classes-d708ad4de5bb575f6da5379e1115ace3ed75177c.jar" />
+    </item>
+
+</items>

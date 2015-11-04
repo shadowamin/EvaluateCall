@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@android:id/background"
+            android:drawable="@drawable/apptheme_scrubber_track_titles" />
+    <item android:id="@android:id/secondaryProgress">
+        <scale android:scaleWidth="100%"
+                android:drawable="@drawable/apptheme_scrubber_track_titles" />
+    </item>
+    <item android:id="@android:id/progress">
+        <scale android:scaleWidth="100%"
+                android:drawable="@drawable/apptheme_scrubber_primary_titles" />
+    </item> 
+</layer-list>
+<!-- From: file:/home/amin/Téléchargements/Android-Alarm-Service-Example-master/EvaluateCall/EvaluateCall/src/main/res/drawable/apptheme_scrubber_progress_titels.xml -->
